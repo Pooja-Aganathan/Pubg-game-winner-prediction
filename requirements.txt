@@ -5,5 +5,4 @@ seaborn
 scikit-learn
 xgboost
 lightgbm
-category-encoders
 jupyter
